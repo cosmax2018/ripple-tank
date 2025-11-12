@@ -3,9 +3,6 @@
 #
 # CopyRight 2019 by Lumachina Software @_°° Massimiliano Cosmelli (massimiliano.cosmelli@gmail.com)
 #
-from init_lib import *
-add_path_to_lib(('matrici',),False)
-from matrici import newMatrix
 
 import time
 import pygame, sys
