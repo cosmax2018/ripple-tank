@@ -1,5 +1,5 @@
 # dir da ignorare
 
 __pycache__
-
+bak
 cython
