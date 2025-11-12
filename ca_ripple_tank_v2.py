@@ -14,7 +14,7 @@ from pygame.locals import *
 
 from numba import jit
 
-from config_rippletank import *
+from config_carippletank import *
 
 pygame.init()
 screen = pygame.display.set_mode((XRES,YRES))

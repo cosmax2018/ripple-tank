@@ -5,9 +5,7 @@
 #
 #
 # questa versione usa a = deepcopy(b) per copiare una matrice in un altra (non si comporta del tutto bene pero'...)
-#
-from init_lib import *
-add_path_to_lib(('matrici',),False)
+
 
 import time
 import pygame, sys
@@ -15,7 +13,7 @@ from pygame.locals import *
 import itertools
 from copy import deepcopy
 from matrici import newMatrix
-from config_rippletank import *
+from config_carippletank import *
 
 pygame.init()
 screen = pygame.display.set_mode((XRES,YRES))
