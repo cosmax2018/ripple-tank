@@ -1,4 +1,4 @@
 # dir da ignorare
 
-bak
+bak/
 cython/
